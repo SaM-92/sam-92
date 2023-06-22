@@ -18,6 +18,7 @@
 
 🌟 Let's revolutionize with AI and unleash the power of innovation together! ✨
 
+![alt text](linkdin.png)  
 [LinkedIn](https://www.linkedin.com/in/saeed-misaghian/)
 
 
