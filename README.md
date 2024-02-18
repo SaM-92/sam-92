@@ -4,9 +4,10 @@
 
 💼 Bridging the gap between theory and practical application in tech. Twice Microsoft Certified, I excel in leveraging Azure for innovative, scalable tech solutions.
 
-💡 Proficient in Python, with expertise in ML, ML Engineering, and optimisation. My work is dedicated to advancing AI and Digital Twins technology.
+🔧 Skilled in Python, SQL, MATLAB, R, PowerShell, Bash, and GAMS, enabling versatile development across platforms.
 
-🎓 Passionate about mentoring in areas like ML, smart grids, and optimisation, inspiring the next generation of innovators.
+🎓 Mentor in data science, ML, smart grids, and optimisation, empowering future tech pioneers.
+
 
 ![alt text](linkdin.png)  
 [LinkedIn](https://www.linkedin.com/in/saeed-misaghian/)
