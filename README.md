@@ -1,22 +1,12 @@
 ### Hi there 👋
 
+👨‍💻 Sr. Product Developer - AI & Digital Twins | 🚀 ML Engineering Pro | ☁️ Proficient Azure Practitioner
 
+💼 Bridging the gap between theory and practical application in tech. Twice Microsoft Certified, I excel in leveraging Azure for innovative, scalable tech solutions.
 
-![alt text](header_git.png)
+💡 Proficient in Python, with expertise in ML, ML Engineering, and optimisation. My work is dedicated to advancing AI and Digital Twins technology.
 
-
-
-👨‍🔬 Senior Research Consultant | 🚀 ML & Azure Enthusiast | 🌐 Innovating with Data 📊
-
-🔬 Highly qualified research scientist and engineer with a focus on electrical engineering. Passionate about optimization, data science, and machine learning.
-
-💼 Industry-academia hybrid, adept at problem-solving, collaboration, and effective communication. Experienced in diverse projects and research.
-
-💡 Proficient in Python, MATLAB, GAMS, R. Skilled in TFS and Microsoft Azure cloud solutions.
-
-🎓 Mentoring and teaching robotics, smart grids, and optimization.
-
-🌟 Let's revolutionize with AI and unleash the power of innovation together! ✨
+🎓 Passionate about mentoring in areas like ML, smart grids, and optimisation, inspiring the next generation of innovators.
 
 ![alt text](linkdin.png)  
 [LinkedIn](https://www.linkedin.com/in/saeed-misaghian/)
