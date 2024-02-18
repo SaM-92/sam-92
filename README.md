@@ -2,7 +2,7 @@
 
 
 
-![alt text](profile.png)
+![alt text](header_git.png)
 
 
 
