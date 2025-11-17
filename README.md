@@ -1,11 +1,8 @@
 ### Hi there 👋
 
-👨‍💻 Senior Product Developer | 🚀 ML Engineering Pro | ☁️ Certified Azure Practitioner
-
-💼 Driven by a love for creation and a dedication to mission-driven goals, I specialise in rapid prototyping and productizing AI-enabled software. As a Senior Product Developer focused on machine learning, I work closely with stakeholders to develop impactful ML/AI models and quickly move prototypes to production. Passionate about innovation, I strive to make substantial contributions to dynamic and evolving teams.
+👨‍💻 Data Scientist II @ Microsoft | ☁️ Azure-Certified
 
 🌟 Here on GitHub, I share projects that I explore in my free time, separate from my professional work. This is my playground for experimentation, learning, and connecting with others.
-
 
 
 ## Technologies Used
