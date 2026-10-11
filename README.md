@@ -1,4 +1,4 @@
-# Saeed Misaghian
+# Saeed Misaghian , PhD
 
 **Senior Data Scientist @ Microsoft** · PhD · Azure-Certified  
 *Infrastructure AI · Real-Time Analytics · Production ML · Agentic Systems*
