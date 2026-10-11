@@ -1,49 +1,69 @@
-### Hi there 👋
+# Saeed Misaghian
 
-👨‍💻 Data Scientist II @ Microsoft | ☁️ Azure-Certified
+**Senior Data Scientist @ Microsoft** · PhD · Azure-Certified  
+*Infrastructure AI · Real-Time Analytics · Production ML · Agentic Systems*
 
-🌟 Here on GitHub, I share projects that I explore in my free time, separate from my professional work. This is my playground for experimentation, learning, and connecting with others.
+I build data-driven and AI-powered systems for **Azure Core & Edge Networking**, working across large-scale data, Internet Traffic Engineering, predictive ML, and optimisation. I also explore **LLM fine-tuning, AI agents, and cloud-native applications**.
 
+This GitHub is where I share independent projects, experiments, and things I build outside my professional work.
 
-## Technologies Used
+### Tech Stack
 
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-%2300768A.svg?style=for-the-badge&logo=mathworks&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=sql&logoColor=white)
-![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-%2300C7B7.svg?style=for-the-badge&logo=fastapi&logoColor=white)
-![MLFlow](https://img.shields.io/badge/MLFlow-%230073C1.svg?style=for-the-badge&logo=mlflow&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-%2300A9C0.svg?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-%2300A9C0.svg?style=for-the-badge&logo=openai&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%2307406E.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-%230E4A7E.svg?style=for-the-badge&logo=streamlit&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/Google%20Cloud%20Platform-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+**AI, ML & Agentic Systems**
 
+<table>
+  <tr>
+    <td align="center" width="112"><img src="https://cdn.simpleicons.org/python/3776AB" width="38" height="38" alt="Python"/><br/>Python</td>
+    <td align="center" width="112"><img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="38" height="38" alt="scikit-learn"/><br/>scikit-learn</td>
+    <td align="center" width="112"><img src="https://cdn.simpleicons.org/mlflow/0194E2" width="38" height="38" alt="MLflow"/><br/>MLflow</td>
+    <td align="center" width="112"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/openai.svg" width="38" height="38" alt="OpenAI SDK"/><br/>OpenAI SDK</td>
+    <td align="center" width="112"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/microsoft-foundry.svg" width="38" height="38" alt="Azure AI Foundry"/><br/>Azure AI Foundry</td>
+    <td align="center" width="112"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft.svg" width="38" height="38" alt="Agent Framework"/><br/>Agent Framework</td>
+  </tr>
+  <tr>
+    <td align="center" width="112"><img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="38" height="38" alt="LangChain"/><br/>LangChain</td>
+    <td align="center" width="112"><img src="https://cdn.simpleicons.org/modelcontextprotocol/5A67D8" width="38" height="38" alt="MCP"/><br/>MCP</td>
+  </tr>
+</table>
 
+**Cloud, Data & Real-Time Analytics**
 
-![alt text](linkdin.png)  
-[LinkedIn](https://www.linkedin.com/in/saeed-misaghian/)
+<table>
+  <tr>
+    <td align="center" width="112"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-azure.svg" width="38" height="38" alt="Microsoft Azure"/><br/>Microsoft Azure</td>
+    <td align="center" width="112"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/amazon-web-services.svg" width="38" height="38" alt="AWS"/><br/>AWS</td>
+    <td align="center" width="112"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/google-cloud.svg" width="38" height="38" alt="Google Cloud"/><br/>Google Cloud</td>
+    <td align="center" width="112"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/azure-data-factory.svg" width="38" height="38" alt="Azure Data Factory"/><br/>Azure Data Factory</td>
+    <td align="center" width="112"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/azure-azure-synapse-analytics/default.svg" width="38" height="38" alt="Azure Synapse"/><br/>Azure Synapse</td>
+    <td align="center" width="112"><img src="https://cdn.simpleicons.org/apachespark/E25A1C" width="38" height="38" alt="Apache Spark"/><br/>Apache Spark</td>
+  </tr>
+  <tr>
+    <td align="center" width="112"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-azure.svg" width="38" height="38" alt="KQL / Data Explorer"/><br/>KQL / Data Explorer</td>
+    <td align="center" width="112"><img src="https://cdn.simpleicons.org/postgresql/4169E1" width="38" height="38" alt="PostgreSQL"/><br/>PostgreSQL</td>
+    <td align="center" width="112"><img src="https://cdn.simpleicons.org/cloudflare/F38020" width="38" height="38" alt="Cloudflare"/><br/>Cloudflare</td>
+  </tr>
+</table>
 
+**Development & Tools**
 
-<!--
-**SaM-92/sam-92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table>
+  <tr>
+    <td align="center" width="112"><img src="https://cdn.simpleicons.org/fastapi/009688" width="38" height="38" alt="FastAPI"/><br/>FastAPI</td>
+    <td align="center" width="112"><img src="https://cdn.simpleicons.org/docker/2496ED" width="38" height="38" alt="Docker"/><br/>Docker</td>
+    <td align="center" width="112"><img src="https://cdn.simpleicons.org/kubernetes/326CE5" width="38" height="38" alt="Kubernetes"/><br/>Kubernetes</td>
+    <td align="center" width="112"><img src="https://cdn.simpleicons.org/git/F05032" width="38" height="38" alt="Git"/><br/>Git</td>
+    <td align="center" width="112"><img src="https://cdn.simpleicons.org/linux/FCC624" width="38" height="38" alt="Linux"/><br/>Linux</td>
+    <td align="center" width="112"><img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="38" height="38" alt="Streamlit"/><br/>Streamlit</td>
+  </tr>
+</table>
 
-Here are some ideas to get you started:
+**Also:** SQL · KQL (Kusto Query Language) · Data Pipelines · Real-Time/Streaming Analytics · LLM Fine-Tuning · Multi-Agent Orchestration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Side Projects
+
+- **[PropLens](https://proplens.ie)** — AI-powered property and neighbourhood insights for Ireland.
+- **[ClampTracker](https://clamptracker.ie)** — Community-driven mapping of private parking clamping risks.
+
+---
+
+[**LinkedIn**](https://www.linkedin.com/in/saeed-misaghian/)
